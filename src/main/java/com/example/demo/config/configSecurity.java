@@ -41,8 +41,3 @@ public class configSecurity {
     }
 }
 
-
-//.requestMatchers(HttpMethod.POST, "/api/v1/auth/register").permitAll()
-//                        .requestMatchers("/api/v1/auth/get-all").permitAll() //نفس اللي فوقه بس طريقه ثانيه
-//                        .requestMatchers("/api/v1/admin").hasAllAuthorities("ADMIN")
-//                        .requestMatchers("").hasAnyAuthority("ADMIN","USER")

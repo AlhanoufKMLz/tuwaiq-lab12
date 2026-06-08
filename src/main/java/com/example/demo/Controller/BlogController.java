@@ -2,7 +2,6 @@ package com.example.demo.Controller;
 
 import com.example.demo.Api.ApiResponse;
 import com.example.demo.DTO.IN.BlogDTOIN;
-import com.example.demo.Model.Blog;
 import com.example.demo.Model.User;
 import com.example.demo.Service.BlogService;
 import jakarta.validation.Valid;
